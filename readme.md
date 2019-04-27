@@ -1,7 +1,7 @@
 
 # Assignment 3 -- Interactive Vis
 
-###闫赓聪 201600162230 16级4班
+##闫赓聪 201600162230 16级4班
 ---
 ###可视化主题：权力的游戏1-7季
 数据来源：[剧集数据](https://www.kaggle.com/dasbootstrapping/game-of-thrones-episode-data 'data'). 
