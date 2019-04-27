@@ -1,7 +1,7 @@
 
 # Assignment 3 -- Interactive Vis
 
-# 闫赓聪 201600162230 16级4班
+## 闫赓聪 201600162230 16级4班
 
 ---
 
@@ -9,7 +9,7 @@
 
 数据来源：[剧集数据](https://www.kaggle.com/dasbootstrapping/game-of-thrones-episode-data 'data').
 
-可视化结果：[Vis on Game of thrones](https://kenzoyan.github.io/Vis-on-Game-of-Thrones/ 'Vis on Game of thrones'). 
+可视化结果：[Vis on Game of thrones](https://kenzoyan.github.io/vis-on-game-of-thrones/ 'Vis on Game of thrones'). 
 
 ## 动态交互
 
@@ -35,10 +35,12 @@
 ### 散点图：
 
 主要表现的是**观众人数**，**贵族死亡人数**，**剧集第几季**的之间的关系,颜色和形状都是用来区分属于第几季的，虽然可能会觉得有点重复了，用两个属性表示一个维度，但是我自己觉得两个都有的时候会更容易看出来对比，更加容易区别。
-**颜色**：
+**颜色**:
+
 ![](/photos/4.jpg)
 
-**颜色+形状**：
+**颜色+形状**:
+
 ![](/photos/5.jpg)
 
 ### 折线图
