@@ -66,3 +66,5 @@
 
 Altair是一个很方便使用的基于Vega实现的python可视化包
 
+#### 之前构思的草图，基本实现的构思
+![draft](/photos/6.png)
