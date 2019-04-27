@@ -19,12 +19,15 @@
 4. 按住Shift键，可以选取多个点，在图表中进行对比比较.
 
 **浮现具体信息**
+
 ![tooltip](/photos/1.jpg)
 
 **选择数据单独观察**
+
 ![select](/photos/2.jpg)
 
 **选中多组数据进行对比**
+
 ![tooltip](/photos/3.jpg)
 
 
