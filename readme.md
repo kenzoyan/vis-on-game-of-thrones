@@ -1,7 +1,7 @@
 
 # Assignment 3 -- Interactive Vis
 
-## 闫赓聪 201600162230 16级4班
+## 
 
 ---
 
